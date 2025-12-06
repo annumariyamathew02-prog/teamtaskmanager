@@ -25,7 +25,8 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCzzLyiWVHGhMrqDUdvbNAR8dCMKQvDUvo",
+  apiKey: "AIzaSyAleswM8inHG8pJflvF60Na4Sh5SR0nv7l
+",
   authDomain: "algonive-taskmanager.firebaseapp.com",
   projectId: "algonive-taskmanager",
   storageBucket: "algonive-taskmanager.firebasestorage.app",
